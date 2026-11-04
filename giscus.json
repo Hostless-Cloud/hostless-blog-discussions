@@ -1,0 +1,8 @@
+{
+  "origins": [
+    "https://blog.hostless.cloud",
+    "https://blog.hostless.site",
+    "http://localhost:3009"
+  ],
+  "defaultCommentOrder": "oldest"
+}
